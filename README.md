@@ -55,5 +55,5 @@ Don't forget following me...
 
 - GitHub - [My personal GitHub](https://github.com/ViniCellist)
 - Frontend Mentor - [Frontend Mentor Profile](https://www.frontendmentor.io/profile/ViniCellist)
-- Instagram - [Follow me here too!](https://www.instagram.com/vinicius_duartesd/)
+- Instagram - [Follow me here too!](https://www.linkedin.com/in/viniciussouzaduarte/)
 - LinkedIn - [If you want to hire me!](https://www.linkedin.com/in/vinicius-de-souza-duarte-57937b192/)
